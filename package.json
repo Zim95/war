@@ -1,0 +1,19 @@
+{
+  "name": "war",
+  "version": "1.0.0",
+  "description": "Geektrust war problem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zim95/war.git"
+  },
+  "author": "Zim95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zim95/war/issues"
+  },
+  "homepage": "https://github.com/Zim95/war#readme"
+}
